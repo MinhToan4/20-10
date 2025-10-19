@@ -1,4 +1,4 @@
-# Lá Thư Tình 20/10
+# Lá Thư 20/10
 
 Một ứng dụng web lãng mạn để gửi thư tình nhân ngày Phụ nữ Việt Nam (20/10).
 
